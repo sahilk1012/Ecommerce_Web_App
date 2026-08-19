@@ -1,4 +1,3 @@
-# Ecommerce_Web_App
 # 🛍️ E-Commerce Website
 
 A responsive and modern **E-Commerce Website** built using HTML, CSS, and JavaScript. This project focuses on creating a clean shopping interface with product listings, product details, cart functionality, and a user-friendly layout.
